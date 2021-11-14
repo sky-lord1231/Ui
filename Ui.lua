@@ -1,1 +1,1 @@
-i kak Relax
+game.Players.LocalPlayer:Kick("I Kak Zoom")
